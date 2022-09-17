@@ -48,7 +48,8 @@ Recall:
 
 6)Easy Ensemble AdaBoost Classifier
 
-![Screen Shot 2022-09-17 at 4 43 34 PM](https://user-images.githubusercontent.com/103322251/190875805-856ed3c8-ca07-476f-809b-3eba6a6bd0ed.png)
+![Screen Shot 2022-09-17 at 5 15 06 PM](https://user-images.githubusercontent.com/103322251/190876745-08427445-03ba-4825-b85a-4bae831e8c54.png)
+
 
 Balance accuracy:
 Precision:
