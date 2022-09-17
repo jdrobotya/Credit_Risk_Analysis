@@ -10,9 +10,9 @@ There were six machine learning models applied  while working on this module. Be
 
 ![Screen Shot 2022-09-17 at 4 11 11 PM](https://user-images.githubusercontent.com/103322251/190875739-6bcfb30e-41c6-417f-95de-856471f58f65.png)
 
-Balance accuracy: this model makes accurate prediction  65% of the time
-Precision: only 1% of predicted high risk clients are actually high risk, 100% predicted low risk clients are actually low risk
-Recall: 62% of high risk clients are classified as high risk and 68% of low risk  clients are classified as low risk.
+* Balance accuracy: this model makes accurate prediction  65% of the time
+* Precision: only 1% of predicted high risk clients are actually high risk, 100% predicted low risk clients are actually low risk
+* Recall: 62% of high risk clients are classified as high risk and 68% of low risk  clients are classified as low risk.
 
 
 ### 2) SMOTE Oversampling
