@@ -19,9 +19,9 @@ Recall: 62% of high risk clients are classified as high risk and 68% of low risk
 
 ![Screen Shot 2022-09-17 at 4 18 20 PM](https://user-images.githubusercontent.com/103322251/190875747-b000f193-a4e1-4dbc-8f0a-4489a83947aa.png)
 
-Balance accuracy: this model makes accurate prediction  64.4% of the time
-Precision: only 1% of predicted high risk clients are actually high risk, 100% predicted low risk clients are actually low risk
-Recall: 63% of high risk clients are classified as high risk and 66% of low risk  clients are classified as low risk.
+- Balance accuracy: this model makes accurate prediction  64.4% of the time
+- Precision: only 1% of predicted high risk clients are actually high risk, 100% predicted low risk clients are actually low risk
+- Recall: 63% of high risk clients are classified as high risk and 66% of low risk  clients are classified as low risk.
 
 
 ### 3) Undersampling
@@ -59,7 +59,7 @@ Balance accuracy score: this model makes accurate prediction  92.5% of the time
 Precision: 7% of predicted high risk clients are actually high risk, 100% predicted low risk clients are actually low risk
 Recall: 91% of high risk clients are classified as high risk and 94% of low risk  clients are classified as low risk.
 
-##Summary: 
+## Summary: 
 By looking at the results of all six modules, it’s safe to say that  Easy Ensemble AdaBoost Classifier is the best model for this data set because it has the highest prediction accuracy and  precision score for high risk clients. The sensitivity of this module is still not perfect,  since it categorizes  a lot of low risk clients as high risk even though they are low risk.  It is safer for the bank to overestimate in this case, then underestimate. 
 
 
